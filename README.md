@@ -34,7 +34,7 @@
 
 -Fórum
 
--Sistema de curtidadas de Mensagens
+-Sistema de curtidas de Mensagens
 
 -Área do Adm
 
